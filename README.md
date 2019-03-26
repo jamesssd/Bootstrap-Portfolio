@@ -1,12 +1,22 @@
 # Bootstrap-Portfolio
 Updated: 03/25/2019
 Description:
+This is my updated portfolio. I have added all the projects I could potentially used in an interview.
+
+Projects:
+https://hunterwiegand.github.io/Food-for-Thought/
+https://jamesssd.github.io/TriviaGame/
+https://jamesssd.github.io/gify_homework/
 
 Technologies used:
+-To create this portfolio, I have used: HTML, CSS, Bootstrap, Google for the images.
 
 Roadmap:
+-I intend to keep polishing this portfolio until it looks legit enough for me to use in interviews.
 
 Shoutout/s:
+-Thanks Google for helping me find images to used.
+-Google for helping me create a logo for my project 1.
 
 
 

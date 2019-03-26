@@ -1,5 +1,4 @@
 # Bootstrap-Portfolio
-
 Description:
 This homework was an exercise in using Bootstrap to try to recreate our Basic Portfolios as close as possible. 
 
@@ -18,3 +17,4 @@ Shoutout/s:
 
 -And of course, Thank you Google for helping me with pretty everything!
 
+Updated: 03/25/2019
